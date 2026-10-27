@@ -1410,5 +1410,607 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-27T06:38:21+08:00"
+  },
+  {
+    "accession": "0001032220-26-000038",
+    "cik": "1032220",
+    "company": "MAXIMUS, INC.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the release gives no quarterly results."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the release gives no quarterly results."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the release gives no quarterly results."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the release gives no quarterly results."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure to check: the release gives no quarterly results, and both claim quotes are in the saved text."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "The release gives no revenue, profit or EPS, so four empty figures are not a fault; the deal claims are captured."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "The extract says plainly that this release is about an acquisition, not results; nothing needs checking by hand."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "A claim about strategy and an acquisition; no filed figure tests it."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "Outlook on the closing date of a deal; revenue and profit for the quarter are not filed, so the trend cannot test it."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "The words are upbeat about the deal; no quarter figures exist to contradict them. Net income was 75.288 a year ago and 103.593 last quarter."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": 75.288,
+        "change_year": null,
+        "previous_quarter": 103.593,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": 1.95,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the Agile Defense deal supports Maximus's focus on government customers' missions.",
+        "quote": "Maximus has long focused on supporting the mission of our government customers through technology-enabled services",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management expects the acquisition to close in the first quarter of its 2027 fiscal year.",
+        "quote": "with an expected closing date in the first quarter of Maximus’ 2027 fiscal year.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO describes the acquisition as a way to expand capabilities. The release gives no quarterly results."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-27T21:40:03+08:00"
+  },
+  {
+    "accession": "0001193125-26-431216",
+    "cik": "2111860",
+    "company": "Xtend AI Robotics, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "preliminary nine months ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release gives only a range, $24.5m-$26.5m (nine months); no filed figure yet."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the release gives no operating income."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the release gives no net income."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; the release gives no EPS."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure to check against a 10-Q; both claim quotes are in the saved text and match the release."
+      },
+      "S2": {
+        "score": 4,
+        "reason": "The release gives a total revenue range ($24.5m-$26.5m) but revenue is empty; no profit or EPS is given."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "The analyst must open the release to read the revenue range, as the extract holds no revenue figure."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "Release table gives nine-month revenue of $24.5m-$26.5m; the 2025 full-year figure is not in the release or filed as a quarter, so it cannot be compared."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "Outlook about leadership and scaling; revenue and operating income are not filed as a quarter, so no trend can test it."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Only the release's own revenue range of $24.5m-$26.5m backs it; no filed quarterly figures exist to test it."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO expects nine-month revenue to exceed full-year 2025 revenue, with an AI Robotics backlog of about $84 million.",
+        "quote": "We expect to report revenue for the nine months ended September 30, 2026 that surpass our full-year 2025 revenue and AI Robotics segment backlog of approximately $84 million.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the new U.S. leadership lets the company scale.",
+        "quote": "With Matt at the helm of our U.S. business, we have the leadership to scale as the U.S. and Israel build permanent commands around autonomy",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO expects revenue above last year's full total and says the company has the leadership to scale."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-10-27T21:40:03+08:00"
+  },
+  {
+    "accession": "0001437749-26-033517",
+    "cik": "1951276",
+    "company": "SR Bancorp, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; a bank files no revenue figure in the release."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty; a bank files no operating income."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet. The quote 'Net Income | $ | 1,068 | $ | 693' is in the release and holds 1.068 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet. The quote 'Diluted earnings per share | $ | 0.15 | $ | 0.09' is in the release and holds 0.15."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Both quotes are in the release and hold their numbers (1,068; 0.15). The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Net income and EPS are there; revenue and operating income are not filed by a bank, so empty is no fault."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Net income, EPS and three claims can be used as they stand; the 10-Q is not yet filed to confirm them."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "1.068 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "0.15 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Net income was 1.068 against 0.693 a year ago, up 54.1%; diluted EPS rose from 0.09 to 0.15 (+66.7%)."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Judged on the release's table: net interest income 8,302 against 7,595 a year ago (USD thousands), up 9.3%. Fundamentals hold no bank revenue."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Judged on the release's table: net interest margin 3.03% against 3.05%, down two basis points. Fundamentals hold no margin."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Profit rose 54.1% and net interest income 9.3%, while the net interest margin slipped from 3.05% to 3.03%: balanced."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 1.068,
+        "this_quarter_from": "release",
+        "year_ago": 0.693,
+        "change_year": 54.1,
+        "previous_quarter": 0.94,
+        "change_quarter": 13.6
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.15,
+        "this_quarter_from": "release",
+        "year_ago": 0.09,
+        "change_year": 66.7,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The company reports net income up 54.1% on the same quarter a year earlier.",
+        "quote": "net income increased 54.1% to $1.1 million for the three months ended September 30, 2026",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Net interest income rose compared with the same quarter a year earlier.",
+        "quote": "Net interest income increased $707,000, or 9.3%, to $8.3 million for the three months ended September 30, 2026",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The net interest margin was slightly lower than a year earlier.",
+        "quote": "Net interest margin decreased two basis points to 3.03% for the three months ended September 30, 2026 from 3.05%",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The release reports higher profit and loan growth, and also a slightly lower net interest margin."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-10-27T21:40:03+08:00"
   }
 ]
