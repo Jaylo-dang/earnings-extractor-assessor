@@ -279,5 +279,95 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000056/gmq32026pressreleaseandfin.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000056/0001467858-26-000056-index.htm",
     "saved_at": "2026-10-25T21:28:19+08:00"
+  },
+  {
+    "cik": "2111860",
+    "company": "Xtend AI Robotics, Inc.",
+    "accession": "0001193125-26-431216",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "preliminary nine months ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO expects nine-month revenue to exceed full-year 2025 revenue, with an AI Robotics backlog of about $84 million.",
+        "quote": "We expect to report revenue for the nine months ended September 30, 2026 that surpass our full-year 2025 revenue and AI Robotics segment backlog of approximately $84 million."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the new U.S. leadership lets the company scale.",
+        "quote": "With Matt at the helm of our U.S. business, we have the leadership to scale as the U.S. and Israel build permanent commands around autonomy"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO expects revenue above last year's full total and says the company has the leadership to scale."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2111860-0001193125-26-431216.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2111860/000119312526431216/d135904dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2111860/000119312526431216/0001193125-26-431216-index.htm",
+    "saved_at": "2026-10-27T21:24:39+08:00"
+  },
+  {
+    "cik": "1951276",
+    "company": "SR Bancorp, Inc.",
+    "accession": "0001437749-26-033517",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 1.068,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 1,068 | $ | 693"
+      },
+      "diluted_eps": {
+        "value": 0.15,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 0.15 | $ | 0.09"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The company reports net income up 54.1% on the same quarter a year earlier.",
+        "quote": "net income increased 54.1% to $1.1 million for the three months ended September 30, 2026"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Net interest income rose compared with the same quarter a year earlier.",
+        "quote": "Net interest income increased $707,000, or 9.3%, to $8.3 million for the three months ended September 30, 2026"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The net interest margin was slightly lower than a year earlier.",
+        "quote": "Net interest margin decreased two basis points to 3.03% for the three months ended September 30, 2026 from 3.05%"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The release reports higher profit and loan growth, and also a slightly lower net interest margin."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1951276-0001437749-26-033517.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1951276/000143774926033517/ex_1018125.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1951276/000143774926033517/0001437749-26-033517-index.htm",
+    "saved_at": "2026-10-27T21:24:39+08:00"
   }
 ]
