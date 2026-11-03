@@ -1737,5 +1737,80 @@
       "match": null
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-11-04T06:08:39+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-11-04-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 22,
+      "total": 22,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 857,
+      "companies": 3,
+      "new": 4,
+      "saved": 4,
+      "no_new": 1,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-10-26",
+      "end": "2026-11-02",
+      "hits": 1002,
+      "results_filings": 921,
+      "new": 857,
+      "watchlist_new": [
+        "AMAZON COM INC (2026-10-29, 0001018724-26-000038)",
+        "Alphabet Inc. (2026-10-28, 0001652044-26-000080)"
+      ],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "saved",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "saved",
+        "accession": "0001018724-26-000038",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "875320",
+        "company": "VERTEX PHARMACEUTICALS INC / MA",
+        "status": "saved",
+        "accession": "0000875320-26-000287",
+        "release_date": "2026-11-02",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1308208",
+        "company": "UNIVERSAL LOGISTICS HOLDINGS, INC.",
+        "status": "saved",
+        "accession": "0001193125-26-437842",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 3 October 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]

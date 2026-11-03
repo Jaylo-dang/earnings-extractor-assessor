@@ -369,5 +369,242 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1951276/000143774926033517/ex_1018125.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1951276/000143774926033517/0001437749-26-033517-index.htm",
     "saved_at": "2026-10-27T21:24:39+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet says revenues grew 25% year over year.",
+        "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues grew 103%.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter with momentum across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:08:39+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "Operating income was $28.1 billion with the highest operating margin ever.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "AWS net sales grew 39.3%.",
+        "quote": "AWS net sales increased 39.3%—its fastest growth in nearly five years—to a $184 billion annualized revenue run rate"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income decreased to $20.7 billion, mainly because of prior-year investment gains.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and highlights record margin."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:08:39+08:00"
+  },
+  {
+    "cik": "875320",
+    "company": "VERTEX PHARMACEUTICALS INC / MA",
+    "accession": "0000875320-26-000287",
+    "release_date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3440.8,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 3,440.8 | $ | 3,076.4"
+      },
+      "operating_income": {
+        "value": 712.9,
+        "unit": "USD millions",
+        "quote": "Income from operations | 712.9 | 1,186.2"
+      },
+      "net_income": {
+        "value": 653.6,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 653.6 | $ | 1,082.9"
+      },
+      "diluted_eps": {
+        "value": 2.56,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 2.56 | $ | 4.20"
+      }
+    },
+    "guidance": {
+      "text": "Vertex raised its full-year 2026 total revenue guidance to $13.15 billion to $13.25 billion.",
+      "quote": "Vertex today raised its full year 2026 total revenue guidance to $13.15 billion to $13.25 billion from $13.1 billion to $13.2 billion previously."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Total revenue rose 12% on cystic fibrosis therapies and diversification.",
+        "quote": "Total revenue increased 12% to $3.44 billion compared to the third quarter of 2025"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "GAAP net income fell, mainly because of costs of the Crinetics acquisition.",
+        "quote": "GAAP net income was $654 million compared to $1.1 billion for the third quarter of 2025. The year-over-year decline is primarily due to expenses related to the Crinetics Pharmaceuticals acquisition."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Full-year revenue guidance was raised.",
+        "quote": "Raising full-year revenue guidance to $13.15 billion to $13.25 billion"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results excellent and the release raises revenue guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/875320-0000875320-26-000287.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/ex-991_q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/0000875320-26-000287-index.htm",
+    "saved_at": "2026-11-04T06:08:39+08:00"
+  },
+  {
+    "cik": "1308208",
+    "company": "UNIVERSAL LOGISTICS HOLDINGS, INC.",
+    "accession": "0001193125-26-437842",
+    "release_date": "2026-10-29",
+    "period_end": "2026-10-03",
+    "period_label": "quarter ended 3 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 394.049,
+        "unit": "USD millions",
+        "quote": "Total operating revenues | 394,049 | 396,786"
+      },
+      "operating_income": {
+        "value": 32.765,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | 32,765 | (117,410"
+      },
+      "net_income": {
+        "value": 18.142,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | 18,142 | $ | (117,938"
+      },
+      "diluted_eps": {
+        "value": 0.69,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.69 | $ | (4.48"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says results reflect solid execution and intermodal turnaround progress.",
+        "quote": "Our third quarter results reflect solid execution across our portfolio of transportation and logistics services,"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating margin was 8.3%, against a negative margin a year earlier.",
+        "quote": "Universal’s operating margin was 8.3% for the quarter, compared with (29.6)% during the same period last year."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites solid execution and the CFO cites balance-sheet progress."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1308208-0001193125-26-437842.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1308208/000119312526437842/ulh-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1308208/000119312526437842/0001193125-26-437842-index.htm",
+    "saved_at": "2026-11-04T06:08:39+08:00"
   }
 ]

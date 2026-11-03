@@ -1,0 +1,223 @@
+Company: UNIVERSAL LOGISTICS HOLDINGS, INC. (CIK 1308208)
+Accession: 0001193125-26-437842
+Results released: 2026-10-29
+Press release: https://www.sec.gov/Archives/edgar/data/1308208/000119312526437842/ulh-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1308208/000119312526437842/0001193125-26-437842-index.htm
+Saved: 2026-11-04T06:08:39+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ulh-ex99_1.htm EX-99.1
+Exhibit 99.1
+Universal Logistics Holdings, Inc. Reports Third Quarter 2026 Financial Results; Declares Dividend
+Third Quarter 2026 Highlights
+•
+Operating Revenues of $394.0 million
+•
+Operating Income of $32.8 million
+•
+Diluted Earnings Per Share of $0.69
+•
+Debt - net of $678.1 million and Operating Debt(a) of $500.5 million
+•
+Credit Agreement Leverage Ratio(a) of 1.98x
+•
+Revolving Credit Facility Extended Through September 30, 2029
+•
+Declares Quarterly Dividend: $0.105 per share
+Warren, MI – October 29, 2026 — Universal Logistics Holdings, Inc. (NASDAQ: ULH), a diversified transportation and logistics company, today reported consolidated operating revenues of $394.0 million, income from operations of $32.8 million, net income of $18.1 million, and earnings per basic and diluted share of $0.69 for the third quarter 2026.
+For comparative purposes, Universal reported total operating revenues of $396.8 million, an operating loss of $117.4 million, a net loss of $117.9 million, and a loss per basic and diluted share of $4.48 for the corresponding period last year. As previously disclosed, Universal’s reported loss in the prior year included non-cash impairment charges totaling $124.4 million.
+Universal’s operating margin was 8.3% for the quarter, compared with (29.6)% during the same period last year. Excluding the impact of prior year impairment charges, adjusted income from operations(a) for the third quarter 2025 was $7.0 million and adjusted operating margin(a) was 1.8%. The Company’s adjusted EBITDA(a) for the quarter was $64.7 million, compared to adjusted EBITDA(a) of $43.3 million one year earlier. Reconciliations of the non-GAAP measures used in this release to the most directly comparable GAAP measures are included below.
+Universal at a Glance
+Universal operates a diversified portfolio of transportation and logistics businesses. The Company's largest business is Contract Logistics, which includes value-added logistics programs and dedicated transportation services, complemented by Intermodal and Trucking operations. For the third quarter of 2026, Contract Logistics represented approximately 69.0% of consolidated operating revenues, compared with approximately 13.5% from Intermodal and 17.5% from Trucking.
+Q3 Revenues (in thousand) | Approx. Share
+Contract logistics | $ | 271,918 | 69.0 | %
+Intermodal | $ | 53,076 | 13.5 | %
+Trucking | $ | 69,049 | 17.5 | %
+(a) A non-GAAP measure, see accompanying non-GAAP measure explanations and reconciliations later in this release.
+Operating Commentary
+“Our third quarter results reflect solid execution across our portfolio of transportation and logistics services,” stated Tim Phillips, Universal’s CEO. “Our intermodal segment also made meaningful progress in its turnaround and generated positive income from operations during the quarter.”
+Segment Results
+Contract Logistics
+Contract Logistics results reflected certain new value-added programs, increased volumes in certain existing value-added programs and dedicated transportation, partially offset by fewer programs in value-added rail services operations. Third-quarter operating revenues increased 2.8% to $271.9 million from $264.4 million in the prior-year period. The segment generated income from operations of $22.9 million, compared with $13.7 million a year earlier, and operating margin improved to 8.4% from 5.2%, primarily reflecting lower direct personnel and depreciation expense.
+Contract Logistics revenues included $11.8 million of separately identified fuel surcharges from dedicated transportation services, compared with $8.1 million in the prior year period. At quarter-end, Universal managed 76 active value-added programs, compared with 82 a year earlier.
+Intermodal
+Overall, Intermodal results reflect improved operating performance in the third quarter. Although revenues declined year over year, revenues increased 20.4% sequentially from the second quarter and the segment generated income from operations during the period. Third-quarter operating revenues decreased 17.9% to $53.1 million from $64.7 million in the prior-year period. Load volumes declined 45.7%, while the average operating revenue per load, excluding fuel surcharges, increased 40.4%.
+The segment reported income from operations of $2.7 million, compared with an operating loss of $135.1 million a year earlier, including the previously discussed $124.4 million non-cash impairment charge in the prior period. Intermodal revenues included $7.4 million of separately identified fuel surcharges and $8.5 million of detention, demurrage and storage charges, compared with $7.6 million and $9.0 million, respectively, in the prior-year period.
+Trucking
+Trucking results reflected lower load volumes, substantially offset by higher average operating revenue per load, excluding fuel surcharges. Third-quarter operating revenues were $69.0 million, compared with $67.7 million in the prior-year period. Load volumes declined 9.6%, while average operating revenue per load, excluding fuel surcharges, increased 8.7%.
+The segment generated income from operations of $4.4 million, compared with $3.9 million a year earlier. Operating margin was 6.3%, compared with 5.8%, reflecting an improved pricing environment. Trucking revenues included $20.1 million from brokerage services and $5.8 million of separately identified fuel surcharges, compared with $17.3 million and $3.6 million, respectively, in the prior-year period.
+Balance Sheet, Liquidity and Capital Structure
+At October 3, 2026, the Company reported Debt - net of approximately $678.1 million on its consolidated balance sheet and held $15.3 million of cash and cash equivalents. Gross outstanding borrowings were approximately $681.7 million. Of those borrowings, approximately $500.5 million consisted of Operating Debt(a), representing revolving credit facility borrowings and equipment financing, and approximately $181.2 million consisted of CTL financing.
+Operating Debt(a) excludes CTL financing and is presented to distinguish the Company's revolving credit facility borrowings and equipment financing from its separately financed CTL obligations.
+(a) A non-GAAP measure, see accompanying non-GAAP measure explanations and reconciliations later in this release.
+At October 3, 2026, the Company’s Credit Agreement Leverage Ratio(a) was 1.98x. The maximum permitted Credit Agreement Leverage Ratio(a) at October 3, 2026 was 3.50x. The Credit Agreement Leverage Ratio(a) was calculated using Net Indebtedness(a) of approximately $497.9 million and Combined EBITDA(a) of approximately $251.8 million, each as defined in the Credit Agreement. Reconciliations of Net Indebtedness(a), Combined EBITDA(a) and the Credit Agreement Leverage Ratio(a) are included below.
+Capital expenditures during the quarter totaled $32.2 million.
+During the quarter, certain subsidiaries of the Company entered into a Fourth Amendment to the syndicated revolving credit facility. The amendment reduced aggregate revolving commitments from $500.0 million to $350.0 million, extended the commitment period from September 30, 2027 to September 30, 2029, and reset the facility's uncommitted accordion to permit the Company to request up to $150.0 million of incremental revolving commitments, subject to lender agreement and satisfaction of the conditions specified in the credit agreement. At October 3, 2026, approximately $90.1 million of revolving commitments remained unused, and the Company was in compliance with its financial covenants.
+CTL Financing
+The Company's CTL financing is a long-term, fixed-rate financing supported primarily by Ford lease payments and related project collateral. At October 3, 2026, approximately $181.2 million of CTL financing was outstanding. The CTL financing is included in Universal's consolidated debt for GAAP purposes but is excluded from Net Indebtedness for purposes of the leverage covenant under the Company's revolving credit agreement. Universal has specified recourse, indemnity and environmental obligations relating to the financing.
+Financial Commentary
+“We continued to make meaningful progress strengthening the balance sheet during the quarter. Debt – net declined by approximately $119.5 million from year-end to $678.1 million, and the extension of our revolving credit facility through September 2029 strengthens our debt-maturity profile and preserves financial flexibility. We remain focused on further debt reduction while maintaining the capacity to support our operations and strategic priorities,” said Michael Rogers, Universal’s Chief Financial Officer.
+Cash Dividend
+Universal Logistics Holdings, Inc. also announced today that its Board of Directors has declared a cash dividend of $0.105 per share of common stock. The dividend is payable to stockholders of record at the close of business on December 1, 2026 and is expected to be paid on January 6, 2027.
+Source: Universal Logistics Holdings, Inc.
+For Further Information:
+Steven Fitzpatrick, Investor Relations
+SFitzpatrick@UniversalLogistics.com
+About Universal:
+Universal Logistics Holdings, Inc. (“Universal”) is a holding company whose subsidiaries provide a variety of customized transportation and logistics solutions throughout the United States and in Mexico and Canada. Our operating subsidiaries provide our customers with supply chain solutions that can be scaled to meet their changing demands. We offer our customers a broad array of services across their entire supply chain, including value-added, dedicated, intermodal and trucking services. In this press release, the terms “us,” “we,” “our,” or the “Company” refer to Universal and its consolidated subsidiaries.
+(a) A non-GAAP measure, see accompanying non-GAAP measure explanations and reconciliations later in this release.
+Forward Looking Statements
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements identify prospective information. Forward-looking statements are statements other than statements of historical fact and include statements regarding future freight-market conditions, customer demand and pricing; the expected performance of our businesses and operating initiatives; improvement in our intermodal operations; future debt reduction and capital allocation; liquidity and borrowing capacity; the availability and use of incremental revolving commitments; our strategies and objectives; and the anticipated payment of the declared dividend. Words such as "expect," "anticipate," "intend," "plan," "goal," "prospect," "seek," "believe," "targets," "project," "estimate," "future," "likely," "may," "should" and similar expressions may identify forward-looking statements, although not all forward-looking statements contain these words.
+Forward-looking statements are based on management's current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied by the statements. Important factors that could cause actual results to differ include general economic and freight-market conditions; changes in automotive and other customer production volumes; customer demand, pricing and competitive pressures; the loss or reduction of customer business; our ability to implement operating, cost-reduction and efficiency initiatives and improve intermodal performance; labor availability and costs; fuel, equipment, insurance and claims costs; litigation and regulatory developments; the performance of customers and other counterparties, including those supporting the CTL financing; interest rates and the availability and cost of capital; our ability to comply with financial covenants and access unused or incremental revolving commitments; and the other risks described under “Risk Factors” in our most recent Annual Report on Form 10-K and in our subsequent reports filed with the Securities and Exchange Commission.
+These cautionary statements qualify all forward-looking statements attributable to us or persons acting on our behalf. Forward-looking statements speak only as of the date of this press release. Except as required by applicable law, we undertake no obligation to update any forward-looking statement to reflect events or circumstances arising after the date of this release.
+(a) A non-GAAP measure, see accompanying non-GAAP measure explanations and reconciliations later in this release.
+UNIVERSAL LOGISTICS HOLDINGS, INC.
+Unaudited Condensed Consolidated Statements of Income
+(In thousands, except per share data)
+Thirteen Weeks Ended | Thirty-nine Weeks Ended
+October 3, | September 27, | October 3, | September 27,
+2026 | 2025 | 2026 | 2025
+Operating revenues:
+Truckload services | $ | 48,947 | $ | 50,419 | $ | 127,964 | $ | 134,119
+Brokerage services | 21,133 | 18,011 | 57,335 | 57,847
+Intermodal services | 52,051 | 63,966 | 142,774 | 200,165
+Dedicated services | 88,842 | 86,171 | 261,065 | 253,007
+Value-added services | 183,076 | 178,219 | 551,809 | 527,832
+Total operating revenues | 394,049 | 396,786 | 1,140,947 | 1,172,970
+Operating expenses:
+Purchased transportation and equipment rent | 68,165 | 80,063 | 195,857 | 241,314
+Direct personnel and related benefits | 169,241 | 176,572 | 510,242 | 509,105
+Operating supplies and expenses | 55,387 | 55,938 | 160,001 | 157,608
+Commission expense | 4,470 | 4,271 | 13,123 | 12,922
+Occupancy expense | 13,778 | 13,738 | 45,602 | 36,794
+General and administrative | 14,492 | 13,625 | 45,580 | 40,828
+Insurance and claims | 6,496 | 8,494 | 31,617 | 23,057
+Depreciation and amortization | 31,915 | 35,499 | 100,742 | 107,190
+(Gain) loss on disposal of property and equipment | (2,660 | ) | 1,585 | (48,382 | ) | 1,578
+Impairment expense | — | 124,411 | 3,886 | 124,411
+Total operating expenses | 361,284 | 514,196 | 1,058,268 | 1,254,807
+Income (loss) from operations | 32,765 | (117,410 | ) | 82,679 | (81,837 | )
+Interest expense, net | (8,744 | ) | (9,985 | ) | (29,010 | ) | (27,061 | )
+Other non-operating income | — | 833 | 293 | 1,560
+Income (loss) before income taxes | 24,021 | (126,562 | ) | 53,962 | (107,338 | )
+Income tax expense (benefit) | 5,879 | (8,624 | ) | 13,145 | (3,730 | )
+Net income (loss) | $ | 18,142 | $ | (117,938 | ) | $ | 40,817 | $ | (103,608 | )
+Earnings per common share:
+Basic | $ | 0.69 | $ | (4.48 | ) | $ | 1.55 | $ | (3.94 | )
+Diluted | $ | 0.69 | $ | (4.48 | ) | $ | 1.55 | $ | (3.93 | )
+Weighted average number of common shares outstanding:
+Basic | 26,367 | 26,330 | 26,363 | 26,327
+Diluted | 26,367 | 26,340 | 26,363 | 26,341
+Dividends declared per common share: | $ | 0.105 | $ | 0.105 | $ | 0.315 | $ | 0.315
+UNIVERSAL LOGISTICS HOLDINGS, INC.
+Unaudited Condensed Consolidated Balance Sheets
+(In thousands)
+October 3, 2026 | December 31, 2025
+Assets
+Cash and cash equivalents | $ | 15,280 | $ | 26,846
+Marketable securities | — | 10,351
+Accounts receivable - net | 289,980 | 261,337
+Other current assets | 96,576 | 84,308
+Total current assets | 401,836 | 382,842
+Property and equipment - net | 776,975 | 819,495
+Other long-term assets - net | 506,304 | 569,651
+Total assets | $ | 1,685,115 | $ | 1,771,988
+Liabilities and stockholders' equity
+Current liabilities, excluding current maturities of debt | $ | 226,300 | $ | 203,245
+Debt - net | 678,054 | 797,571
+Other long-term liabilities | 206,046 | 230,817
+Total liabilities | 1,110,400 | 1,231,633
+Total stockholders' equity | 574,715 | 540,355
+Total liabilities and stockholders' equity | $ | 1,685,115 | $ | 1,771,988
+UNIVERSAL LOGISTICS HOLDINGS, INC.
+Unaudited Summary of Operating Data
+Thirteen Weeks Ended | Thirty-nine Weeks Ended
+October 3, | September 27, | October 3, | September 27,
+2026 | 2025 | 2026 | 2025
+Contract Logistics Segment:
+Average number of value-added direct employees | 6,816 | 7,596 | 6,957 | 7,418
+Average number of value-added full-time equivalents | 27 | 43 | 39 | 42
+Number of active value-added programs | 76 | 82 | 76 | 82
+Intermodal Segment:
+Number of loads (a) | 55,418 | 102,028 | 195,539 | 297,825
+Average operating revenue per load, excluding fuel surcharges (a) | $ | 671 | $ | 478 | $ | 541 | $ | 519
+Average number of tractors | 879 | 1,363 | 1,012 | 1,385
+Number of depots | 8 | 8 | 8 | 8
+Trucking Segment:
+Number of loads | 26,881 | 29,731 | 79,476 | 89,804
+Average operating revenue per load, excluding fuel surcharges | $ | 2,360 | $ | 2,172 | $ | 2,112 | $ | 1,991
+Average number of tractors | 514 | 594 | 526 | 610
+Average length of haul | 420 | 371 | 402 | 377
+(a) Excludes operating data from freight forwarding division in order to improve the relevance of the statistical data related to our intermodal segment and improve the comparability to our peer companies.
+UNIVERSAL LOGISTICS HOLDINGS, INC.
+Unaudited Summary of Operating Data - Continued
+(Dollars in thousands)
+Thirteen Weeks Ended | Thirty-nine Weeks Ended
+October 3, | September 27, | October 3, | September 27,
+2026 | 2025 | 2026 | 2025
+Operating Revenues by Segment:
+Contract logistics | $ | 271,918 | $ | 264,390 | $ | 812,875 | $ | 780,839
+Intermodal | 53,076 | 64,679 | 145,007 | 204,290
+Trucking | 69,049 | 67,716 | 183,059 | 187,368
+Other | 6 | 1 | 6 | 473
+Total | $ | 394,049 | $ | 396,786 | $ | 1,140,947 | $ | 1,172,970
+Income from Operations by Segment:
+Contract logistics | $ | 22,923 | $ | 13,720 | $ | 64,994 | $ | 59,349
+Intermodal | 2,652 | (135,116 | ) | (20,914 | ) | (151,501 | )
+Trucking | 4,375 | 3,914 | 7,797 | 9,443
+Other | 2,815 | 72 | 30,802 | 872
+Total | $ | 32,765 | $ | (117,410 | ) | $ | 82,679 | $ | (81,837 | )
+Non-GAAP Financial Measures
+This press release contains financial measures that are not calculated in accordance with U.S. generally accepted accounting principles (GAAP). These non-GAAP financial measures include adjusted income from operations, adjusted operating margin, adjusted EBITDA, Operating Debt, Net Indebtedness, Combined EBITDA and Credit Agreement Leverage Ratio.
+Adjusted income from operations and adjusted operating margin reflect GAAP income from operations and operating margin, respectively, adjusted for the items shown in the reconciliations below. EBITDA represents net income before interest expense, income taxes, depreciation and amortization. Adjusted EBITDA further adjusts EBITDA for the items shown in the reconciliations below. Management uses these measures to evaluate operating performance and compare results across reporting periods. The Company believes these measures provide useful supplemental information by allowing investors to evaluate operating performance after separately identifying the effects of the specified adjustments.
+Operating Debt represents total outstanding borrowings excluding CTL financing. The Company presents Operating Debt to distinguish its revolving credit borrowings and equipment financing from its separately financed CTL financing. The Company also presents Net Indebtedness, Combined EBITDA and the Credit Agreement Leverage Ratio because those measures are used under the Company’s revolving credit agreement to evaluate leverage and covenant compliance. These measures should not be considered in isolation or as substitutes for GAAP financial measures, and their definitions may differ from similarly titled measures used by other companies.
+October 3, 2026
+Reconciliation of Debt - net to Operating Debt(a) | (in thousands)
+Debt - net | $ | 678,054
+Add: unamortized debt issue costs | 3,680
+Total outstanding borrowings | 681,734
+Less: CTL Financing | (181,202 | )
+Operating Debt(a) | $ | 500,532
+October 3, 2026
+Reconciliation of Debt - net to Net Indebtedness(a) (in thousands): | (in thousands)
+Debt - net | $ | 678,054
+Add: unamortized debt issue costs | 3,680
+Total outstanding borrowings | $ | 681,734
+Less: CTL Financing | (181,202 | )
+Less: Unrestricted Domestic Cash | (2,629 | )
+Net Indebtedness(a) | $ | 497,903
+(a) A non-GAAP measure, see accompanying non-GAAP measure explanations and reconciliations later in this release.
+Reconciliation of Other GAAP Measures
+Thirteen Weeks Ended | Thirty-nine Weeks Ended
+October 3, | September 27, | October 3, | September 27,
+2026 | 2025 | 2026 | 2025
+( in thousands, except percentages) | ( in thousands, except percentages)
+Adjusted income from operations
+Income from operations | $ | 32,765 | $ | (117,410 | ) | $ | 82,679 | $ | (81,837 | )
+(Gain) on Kearny sale | — | — | (45,274 | ) | —
+Legal charges | — | — | 12,250 | —
+Impairment expense | — | 124,411 | 3,886 | 124,411
+Adjusted income from operations(a) | $ | 32,765 | $ | 7,001 | $ | 53,541 | $ | 42,574
+Operating margin | 8.3 | % | -29.6 | % | 7.2 | % | -7.0 | %
+Adjusted operating margin(a) | 8.3 | % | 1.8 | % | 4.7 | % | 3.6 | %
+Notes: Operating margin is income from operations divided by total operating revenues. Adjusted operating margin(a) is adjusted income from operations divided by total operating revenues.
+Thirteen Weeks Ended | Thirty-nine Weeks Ended | TTM
+October 3, | September 27, | October 3, | September 27, | October 3,
+2026 | 2025 | 2026 | 2025 | 2026
+( in thousands) | ( in thousands) | ( in thousands)
+Adjusted EBITDA and Combined EBITDA
+Net income | $ | 18,142 | $ | (117,938 | ) | $ | 40,817 | $ | (103,608 | ) | $ | 44,552
+Income tax expense | 5,879 | (8,624 | ) | 13,145 | (3,730 | ) | 16,735
+Interest expense, net | 8,744 | 9,985 | 29,010 | 27,061 | 39,757
+Depreciation | 29,090 | 32,719 | 92,254 | 93,304 | 128,512
+Amortization | 2,825 | 2,780 | 8,488 | 13,886 | 11,286
+EBITDA | 64,680 | (81,078 | ) | 183,714 | 26,913 | 240,842
+(Gain) on Kearny sale | — | — | (45,274 | ) | — | (45,274 | )
+Legal charges | — | — | 12,250 | — | 12,250
+Impairment expense | — | 124,411 | 3,886 | 124,411 | 3,886
+Adjusted EBITDA(a) | $ | 64,680 | $ | 43,333 | $ | 154,576 | $ | 151,324 | $ | 211,704
+Credit Agreement adjustments | 40,061
+Combined EBITDA(a) | $ | 251,765
+Notes: Combined EBITDA(a) represents trailing-twelve-month Adjusted EBITDA(a), further adjusted for additional items permitted under the Credit Agreement for purposes of determining covenant compliance, including the $45.3 million gain on Kearny sale.
+The Company presents these non-GAAP measures because it believes they assist investors and analysts in comparing performance across reporting periods on a consistent basis and in understanding the measures used under the Company’s revolving credit agreement. These measures have limitations and should not be considered in isolation or as substitutes for GAAP measures. The Company relies primarily on GAAP results and uses these non-GAAP measures only as supplemental measures.
+(a) A non-GAAP measure, see accompanying non-GAAP measure explanations and reconciliations later in this release.
