@@ -3287,5 +3287,154 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:37:44+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 7,
+      "total": 7,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 7,
+      "checked": 7,
+      "rechecks": 5,
+      "confirmed": 10,
+      "mismatch": 0,
+      "cannot_check": 18
+    },
+    "companies": [
+      {
+        "cik": "1032220",
+        "company": "MAXIMUS, INC.",
+        "accession": "0001032220-26-000038",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "2111860",
+        "company": "Xtend AI Robotics, Inc.",
+        "accession": "0001193125-26-431216",
+        "period_label": "preliminary nine months ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1951276",
+        "company": "SR Bancorp, Inc.",
+        "accession": "0001437749-26-033517",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "875320",
+        "company": "VERTEX PHARMACEUTICALS INC / MA",
+        "accession": "0000875320-26-000287",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1308208",
+        "company": "UNIVERSAL LOGISTICS HOLDINGS, INC.",
+        "accession": "0001193125-26-437842",
+        "period_label": "quarter ended 3 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1368265",
+        "company": "Clean Energy Fuels Corp.",
+        "accession": "0001104659-26-123341",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1290677",
+        "company": "Turning Point Brands, Inc.",
+        "accession": "0001437749-26-035713",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 7 extractions: 10 figures confirmed, 0 mismatches, 18 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:15:05+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 1369,
+      "saved_for_run": 1369,
+      "match": true
+    },
+    "offline": false
   }
 ]
